@@ -1,1 +1,9 @@
-Replace this with a list of your favorite things.
+# list of things I like:
+- Sunsets
+- Star gazing
+- Campfires
+- Learning new things
+- Cloud formations
+- Water sports
+
+😸
